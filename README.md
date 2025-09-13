@@ -114,8 +114,8 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sales-savvy.git
-   cd sales-savvy
+   git clone https://github.com/RitikaTripathi72/SalesSavvy_Project.git
+   cd SalesSavvy_Project
    ```
 
 2. **Backend Setup**
